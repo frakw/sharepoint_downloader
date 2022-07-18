@@ -1,0 +1,1 @@
+nexe -i "index.js" -r "public/**/*.html" -o "dist/catchurl.exe" -t x64-10.16.0 --build --verbose
