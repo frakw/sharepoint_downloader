@@ -1,11 +1,8 @@
 from operator import le
-from pickle import FRAME
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import filedialog
-import sys
 import os
-import multiprocessing
 import subprocess
 import pathlib
 
